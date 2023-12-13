@@ -28,7 +28,7 @@ frequency = فرکانس
 damping_factor = ضریب میرایی
 
 ---------------------------------------------
-#Prerequisites to run
+# Prerequisites to run
 ```bash
 pip install numpy
 pip install matplotlib
