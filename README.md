@@ -6,7 +6,11 @@
 
 
 ![image](https://github.com/soltanali0/-spring-damping-chart/assets/87374678/2cc65533-104c-4377-a5cf-7a08b5599c25)
+
+
 کند میرا 
+
+
 ![image](https://github.com/soltanali0/-spring-damping-chart/assets/87374678/43f5392f-d39c-49f4-bbb9-ee66243b88c1)
 
 تند میرا 
