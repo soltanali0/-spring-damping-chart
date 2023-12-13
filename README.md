@@ -42,11 +42,16 @@ pip install matplotlib
 python.exe core.py
 ```
 ------------------------------------------
+# Resources to learn more
+
 1- https://blog.faradars.org
 
 2- https://fa.wikipedia.org
 
 3- https://wikiwand.com
 
+4- https://scientific-python.readthedocs.io/en/latest/notebooks_rst/3_Ordinary_Differential_Equations/02_Examples/Harmonic_Oscillator.html
+
+5- https://www.w3schools.com/python/matplotlib_pyplot.asp
 
 
