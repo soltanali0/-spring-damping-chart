@@ -15,8 +15,9 @@
 
 
 # slow damping
-
+------------------
 در شکل زیر نمودار نوسان فنری را مشاده میکنید که دارای تند میرایسست ( بحرانی ) .
+
 ![image](https://github.com/soltanali0/-spring-damping-chart/assets/87374678/43f5392f-d39c-49f4-bbb9-ee66243b88c1)
 
 # rapid damping
