@@ -5,6 +5,10 @@
 
 
 
+![20100724100233496_ww163](https://github.com/soltanali0/-spring-damping-chart/assets/87374678/cf4073e6-3138-4cbb-a035-d09fffcba624)
+
+
+
 ![image](https://github.com/soltanali0/-spring-damping-chart/assets/87374678/2cc65533-104c-4377-a5cf-7a08b5599c25)
 
 
